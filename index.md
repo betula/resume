@@ -1,7 +1,10 @@
+<div align="center">
 
 ## Slava Birch
 
 #### Senior Full-Stack and Software Architect
+
+</div>
 
 I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for communication Zoom video call.
 
@@ -25,7 +28,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 - Developed the user management interface for partners API. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions, and customer companies management. As a participant of distributed 7 members agile team with Jira tasks desk.
 - Active architecture consultant and enthusiast, tech talks participant.
-- Multipurpose supporter of a big set of independent internal projects on most of existents technology stacks for full-stack development. There are Redux, Mobx, NestJS, Postgres, Styled Components, and etc.
+- Multipurpose supporter of a big set of independent internal projects on most of existents technology stacks for full-stack development.
 - The effective unit tests writer.
 - Pixel perfect UI master with Figma.
 - Friendly team-member and conscious pull request reviewer.
