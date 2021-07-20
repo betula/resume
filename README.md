@@ -1,6 +1,10 @@
+<div align="center">
+
 ## Slava Birch
 
 #### Senior Full-Stack and Software Architect
+
+</div>
 
 A result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for communication Zoom video call.
 
@@ -108,4 +112,4 @@ Thanks a lot for your time. I will be glad to take part of your team!
 
 Happy growing!
 
-[Download PDF](https://github.com/betula/betula/raw/master/resume/Slava_Birch_resume.pdf)
+[Download PDF](https://github.com/betula/resume/raw/master/Slava_Birch_resume.pdf)
