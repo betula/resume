@@ -2,7 +2,7 @@
 
 #### Senior Full-Stack and Software Architect
 
-I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for communication Zoom video call.
+A result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for communication Zoom video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Telegram: [t.me/betula17](https://t.me/betula17)
