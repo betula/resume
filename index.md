@@ -94,7 +94,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 - Deep experience in the internal React code kitchen.
 - Developed a fully functional state management system through just one React hook.
 
-<sup>React, Typescript, Minimalism</sup>
+<sup>React, Typescript, Minimalism.</sup>
 
 
 ## Technical writer
