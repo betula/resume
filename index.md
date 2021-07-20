@@ -1,10 +1,7 @@
-<div align="center">
 
 ## Slava Birch
 
 #### Senior Full-Stack and Software Architect
-
-</div>
 
 I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for communication Zoom video call.
 
