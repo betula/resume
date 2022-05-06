@@ -19,7 +19,7 @@ Result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7),
 **[Text Blaze](https://blaze.today)** - **senior full-stack engineer** - (contract, remote) - _2021 – 2022 (8 mos)_
 
 - Developed and made changes to UI whole the project, from the welcome screen to the snippet markup editor. Maintained the code for Cloud functions, Chrome extension, and React Native mobile application.
-- Sped up UI rendering of the application 2x faster for mobile devices.
+- Sped up UI rendering of the web application 2x faster for mobile devices.
 - Reduced the bundle size by 20%.
 - Successful teamwork in a globally distributed team with 4 time zones.
 
