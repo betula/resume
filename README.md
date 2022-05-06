@@ -6,7 +6,7 @@
 
 </div>
 
-Result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7), and can be in touch from 10:00 to 18:00. The preferred way for communication Google Meet video call.
+Result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7). The preferred way for communication Google Meet video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Telegram: [t.me/betula17](https://t.me/betula17)
