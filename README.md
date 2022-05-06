@@ -6,7 +6,7 @@
 
 </div>
 
-A result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for communication Zoom video call.
+Result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7), and can be in touch from 10:00 to 18:00. The preferred way for communication Google Meet video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Telegram: [t.me/betula17](https://t.me/betula17)
@@ -15,6 +15,15 @@ A result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7
 
 
 ## Work experience
+
+**[Text Blaze](https://blaze.today)** - **senior full-stack engineer** - (contract, remote) - _2021 – 2022 (8 mos)_
+
+- Developed and made changes to UI whole the project, from the welcome screen to the snippet markup editor. Maintained the code for Cloud functions, Chrome extension, and React Native mobile application.
+- Sped up UI rendering of the application 2x faster for mobile devices.
+- Reduced the bundle size by 20%.
+- Successful teamwork in a globally distributed team with 4 time zones.
+
+<sup>React, Typescript, Redux, React Native, Node.JS, Google Cloud Functions, Firebase, Firestore, Webpack, Chrome Extension.</sup>
 
 **[Card of the Day](http://card-of-the-day.com/get-app)** - **principal software engineer, and architect roles** - (contract, remote) - _2020 – 2021 (8 mos)_
 
