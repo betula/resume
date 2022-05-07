@@ -1,6 +1,6 @@
 <div align="center">
 
-## Slava Birch
+## Viacheslav Bereza
 
 #### Senior Full-Stack and Software Architect
 
@@ -121,4 +121,4 @@ Thanks a lot for your time. I will be glad to take part of your team!
 
 Happy growing!
 
-[Download PDF](https://github.com/betula/resume/raw/master/Slava_Birch_resume.pdf)
+[Download PDF](https://github.com/betula/resume/raw/master/Viacheslav_Bereza_resume.pdf)
