@@ -100,20 +100,21 @@ I have big experience in complex UIs, administration panels, financial apps, soc
 
 ## Open Source
 
-**[use-between](https://github.com/betula/use-between)** - the easiest way for sharing React state.
+**[use-between](https://github.com/betula/use-between)** - **author** - (>165k downloads) - the easiest way for sharing React state.
 
 - Deep experience in the internal React code kitchen.
 - Developed a fully functional state management system through just one React hook.
 
 <sup>React, Typescript, Minimalism.</sup>
 
-**[Realar advanced state manager](https://github.com/betula/realar)** - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+**[Realar advanced state manager](https://github.com/betula/realar)** - **author** - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
 <sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
+**[svg-path-bounding-box](https://www.npmjs.com/package/svg-path-bounding-box)** - **author** - (>400k downloads) - SVG path bounding box calculator.
 
 ## Technical writer
 
