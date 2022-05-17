@@ -6,7 +6,7 @@
 
 </div>
 
-Result-driven engineer with 12+ years of experience. Individual problem solver, programmer in blood and mind! I live in Thailand (GMT+7). The preferred way for communication Google Meet video call.
+Result-driven engineer with 12+ years of experience. Individual problem solver, programmer in blood and mind! **I live in Thailand (GMT+7)**. The preferred way for communication Google Meet video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
