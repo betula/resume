@@ -6,7 +6,7 @@
 
 </div>
 
-Result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7). The preferred way for communication Google Meet video call.
+Result-driven engineer with 12+ years of experience. Individual problem solver, programmer in blood and mind! I live in Thailand (GMT+7). The preferred way for communication Google Meet video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
@@ -14,17 +14,17 @@ Result-driven engineer with 10+ years of experience. I live in Thailand (GMT+7).
 
 I have big experience in complex UIs, administration panels, financial apps, social networks, and Open Source projects.
 
-- Developing enterprise JavaScript and TypeScript client applications.
-- Developing enterprise server applications on Node.js.
-- Coding Open Source projects.
+- A confident participant in building large-scale web applications with distributed teams.
+- Deep knowledge of object-oriented, reactive, functional programming, patterns, web application architecture, library design and implementation.
+- Incredible love for Open Source.
 
 ## Skills
 
-- **JavaScript** _(10yrs)_
+- **JavaScript** _(>12yrs)_
 - **TypeScript** _(5yrs)_
 - **React** _(6yrs)_, Mobx, Redux (+eco)
-- **Node.js** _(8yrs)_ (+express eco), NestJS
-- React Native _(1yr)_
+- **Node.js** _(9yrs)_ (+express eco), NestJS
+- React Native
 - Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
 - Cascading style sheets preprocessing
 - The logic and view unit testing with Jest, and similar
@@ -48,7 +48,7 @@ I have big experience in complex UIs, administration panels, financial apps, soc
 
 <sup>React, Typescript, Redux, React Native, Node.JS, Google Cloud Functions, Firebase, Firestore, Webpack, Chrome Extension.</sup>
 
-**[Card of the Day](http://card-of-the-day.com/get-app)** - **founder, principal software engineer, and architect roles** - _2020 – 2021 (8 mos)_
+**[Card of the Day](http://card-of-the-day.com/get-app)** - **founder** - _2020 – 2021 (8 mos)_
 
 - Single-handedly developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
@@ -83,6 +83,17 @@ I have big experience in complex UIs, administration panels, financial apps, soc
 - Realized a modular structure of the codebase.
 
 <sup>Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS.</sup>
+
+**[Sovcombank](https://sovcombank.com/en/about/info)** - **senior frontend engineer and team-lead** - (remote) - _2015 – 2016 (1 yr 3 mos)_
+
+- Leading of the team with 5 developers.
+- Controlling, training, decomposition both by code and business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
+- Interviewing with new candidates.
+- Developed a custom data changing tracking system specific to the project data for easy and iterative migration of an application codebase from AngularJS to React.
+- Use a SOLID as a basic and priority principle for an application code architecture.
+
+<sup>Javascript, AngularJS, React, Slack, Jira, D3, Custom libraries development.</sup>
+
 
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
 
