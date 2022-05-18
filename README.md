@@ -114,6 +114,8 @@ I have big experience in complex UIs, administration panels, financial apps, soc
 
 <sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
+**[reactive-box](https://github.com/betula/reactive-box)** - **author** - 1.2 kB full feature reactive language basis.
+
 **[svg-path-bounding-box](https://www.npmjs.com/package/svg-path-bounding-box)** - **author** - (>400k downloads) - SVG path bounding box calculator.
 
 ## Technical writer
