@@ -129,4 +129,4 @@ Thanks a lot for your time. I will be glad to take part of your team!
 
 Happy growing!
 
-[Download PDF](https://github.com/betula/resume/raw/master/Viacheslav_Bereza_resume.pdf)
+[Download PDF](https://github.com/betula/resume/raw/master/Resume_Viacheslav_Bereza.pdf)
