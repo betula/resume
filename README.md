@@ -1,12 +1,12 @@
 <div align="center">
 
-## Viacheslav Bereza
+## Slava Bereza
 
-#### **Senior Full-Stack** and Software Architect
+#### **Senior Full-Stack engineer**
 
 </div>
 
-Result-driven engineer with 12+ years of experience. Individual problem solver, programmer in blood and mind! **I live in Thailand (GMT+7)**. The preferred way for communication Google Meet video call.
+Result-driven engineer with 12+ years of experience, programmer in blood and mind! **I live in Thailand (GMT+7)**. The preferred way for communication Google Meet video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
@@ -129,4 +129,4 @@ Thanks a lot for your time. I will be glad to take part of your team!
 
 Happy growing!
 
-[Download PDF](https://github.com/betula/resume/raw/master/Resume_Viacheslav_Bereza.pdf)
+[Download PDF](https://github.com/betula/resume/raw/master/Resume_Slava_Bereza.pdf)
