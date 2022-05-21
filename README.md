@@ -30,7 +30,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 - MongoDB, Postgres, MySQL
 - WebAssembly
 - Kanban and Scrum methodologies
-- Merge Requests calm reviewer
+- Git, Merge Requests calm reviewer
 - Remote worker, Teammate
 
 
@@ -72,7 +72,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 <sup>React, Javascript, Redux, Redux-Saga, Reselect, Recompose, BEM, Mobx, Slack, Jira, Node.JS, Express, Mirco-Services architecture, CSS Modules, Profiling, Jest.</sup>
 
-**[Icons8](https://icons8.com)** ([icons8.com](https://icons8.com)) - **senior full-stack engineer and architect** - (remote) - _2016 – 2017 (1 yr)_
+**[Icons8](https://icons8.com)** ([icons8.com](https://icons8.com)) - **senior full-stack engineer, software architect** - (remote) - _2016 – 2017 (1 yr)_
 
 - Developed a Node.js service for support Server Side Rendering on AngularJS applications.
 - Decreased page generation time from 2s on [prerender.io](https://prerender.io) to incredible 200ms for Search Engines.
@@ -81,7 +81,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 <sup>Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS.</sup>
 
-**[Sovcombank](https://sovcombank.com/en/about/info)** - **senior frontend engineer and team-lead** - (remote) - _2015 – 2016 (1 yr 3 mos)_
+**[Sovcombank](https://sovcombank.com/en/about/info)** - **senior frontend engineer, team-lead** - (remote) - _2015 – 2016 (1 yr 3 mos)_
 
 - Leading of the team with 5 developers.
 - Controlling, training, decomposition both by code and business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
