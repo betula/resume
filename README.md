@@ -2,11 +2,9 @@
 
 ## Viacheslav Bereza
 
-#### **I live in Thailand (GMT+7)**
-
 </div>
 
-Result-driven engineer with 12+ years of experience, programmer in blood and mind!
+Result-driven engineer with 12+ years of experience, programmer in blood and mind! **I live in Thailand (GMT+7)**
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Linkedin: [linkedin.com/in/betula](https://linkedin.com/in/betula)
