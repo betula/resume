@@ -1,6 +1,6 @@
 <div align="center">
 
-## Viacheslav Bereza
+## Slava Bereza
 
 </div>
 
@@ -45,7 +45,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 <sup>React, Typescript, Redux, React Native, Node.JS, Google Cloud Functions, Firebase, Firestore, Webpack, Chrome Extension.</sup>
 
-**[Card of Day](http://card-of-the-day.com/get-app)** ([card-of-day.com/get-app](http://card-of-day.com/get-app)) - **founder, react native developer** - _2020 – 2021 (8 mos)_
+**[Card of Day](http://card-of-day.com/get-app)** ([card-of-day.com/get-app](http://card-of-day.com/get-app)) - **react native developer, founder** - _2020 – 2021 (8 mos)_
 
 - Single-handedly developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
