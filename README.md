@@ -4,25 +4,37 @@
 
 </div>
 
-Result-driven engineer with 12+ years of experience, programmer in blood and mind! **I live in Thailand (GMT+7)**
+Result-driven engineer with 12+ years of experience, programmer in blood and mind! **I live in LatAM, Argentina, Buenos Aires**.
 
++ WhatsApp: [wa.me/79281435560](https://wa.me/79281435560)
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Linkedin: [linkedin.com/in/betula](https://linkedin.com/in/betula)
 + Github: [github.com/betula](https://github.com/betula)
 
-I have a significant interest in complex UIs, financial apps, administration panels, social networks, and Open Source projects. I would like to continue gaining experience in mobile interfaces on React Native, and in the architecture of client applications.
+I have a significant interest in complex UIs, financial apps, administration panels, social networks, and Open Source projects. I would like to continue gaining experience in interfaces, and in the architecture of client applications.
 
-- A confident participant in building large-scale web applications with distributed teams.
+- A confident participant in building large-scale applications with distributed teams.
 - Deep knowledge of object-oriented, reactive, functional programming, design patterns, web application architecture, library design and implementation.
-- Incredible love for Open Source.
+- Value oriented.
+
+## I can
+
+- Can take responsibility for integrating big features.
+- Can take team leadership when needed.
+- Can work overhead in case of strategically important unforeseen events.
+- Can learn and develop new library/framework/language/architecture.
+- Can take responsibility for the architecture of an application, both in creating a new project and maintaining existing code.
+- I can take on issues requiring new solutions, complex algorithmic and architectural.
+- Can handle processes when business needs my leadership skills.
 
 ## Skills
 
 - **JavaScript** _(>12yrs)_
-- **TypeScript** _(5yrs)_
-- **React** _(7yrs)_, Mobx, Redux
+- **TypeScript** _(6yrs)_
+- **React** _(8yrs)_, Mobx, Redux
 - **Node.js** _(9yrs)_, Express
 - **React Native** _(1yr)_
+- **Angular** _(1yr)_
 - Unit testing with Jest, and similar
 - Profiling web application performance and creating high-performance applications
 - Webpack with custom babel plugin development experience
@@ -36,24 +48,34 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 ## Work experience
 
-**[Text Blaze](https://blaze.today)** ([blaze.today](https://blaze.today)) - **senior full-stack engineer** - (contract, remote) - _2021 – 2022 (8 mos)_
+**[Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en_US)** - **senior full-stack engineer** - (contract, remote) - _2023 – 2022_
+
+- Development of the Cooking plugin for the [Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en_US) mobile app.
+- Responsibility for the architecture of forms and screens within the plugin.
+- To establish effective interaction between teams from different countries.
+
+Reference letter ([github.com/betula/resume/raw/master/Slava-Bereza-ref_letter.pdf](https://github.com/betula/resume/raw/master/Slava-Bereza-ref_letter.pdf))
+<sup>React, Typescript, Mobx, Angular, Webview, Mobile UI.</sup>
+
+**[Text Blaze](https://blaze.today)** ([blaze.today](https://blaze.today)) - **senior full-stack engineer** - (contract, remote) - _2021 – 2022_
 
 - Developed and made changes to UI whole the project, from the welcome screen to the snippet markup editor. Maintained the code for Cloud functions, Chrome extension, and React Native mobile application.
 - Sped up UI rendering of the web application 2x faster for mobile devices.
 - Reduced the bundle size by 20%.
-- Successful teamwork in a globally distributed team with 4 time zones.
+- Teamwork in a globally distributed team with 4 time zones.
 
 <sup>React, Typescript, Redux, React Native, Node.JS, Google Cloud Functions, Firebase, Firestore, Webpack, Chrome Extension.</sup>
 
-**[Card of Day](http://card-of-day.com/get-app)** ([card-of-day.com/get-app](http://card-of-day.com/get-app)) - **react native developer, founder** - _2020 – 2021 (8 mos)_
+**[Card of Day](http://apps.apple.com/app/card-of-the-day/id1547423880)** ([apps.apple.com/app/card-of-the-day/id1547423880](http://apps.apple.com/app/card-of-the-day/id1547423880)) - **founder, react native developer** - _2020 – 2021_
 
 - Single-handedly developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
 - Experience in native animations, resources caching, and analytics integration.
+- Experience in entrepreneurship.
 
 <sup>React, Typescript, React Native, Realar, Native animations, App Store purchases, Node.JS, Express, Webpack, SSR.</sup>
 
-**[Samsung NEXT](https://www.samsungnext.com/)** - **senior full-stack engineer** - (remote) - _2020 (7 mos)_
+**[Samsung NEXT](https://www.samsungnext.com/)** - **senior full-stack engineer** - (remote) - _2020_
 
 - Developed the user management interface for partners API. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions, and customer companies management. As a participant of distributed 7 members agile team with Jira tasks desk.
 - Active architecture consultant and enthusiast, tech talks participant.
@@ -64,7 +86,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 <sup>React, Typescript, Mobx, Redux, Slack, Jira, Mirco-Services architecture, Node.JS, NestJS, Postgres, Styled Components, CSS Modules, Lerna, Docker, Jest.</sup>
 
-**[Yandex](https://yandex.com/)** - **senior full-stack engineer** - _2017 – 2019 (2 yrs 4 mos)_
+**[Yandex](https://yandex.com/)** - **senior full-stack engineer** - _2017 – 2019_
 
 - Integrated ad blocker (adblock, ect.)  bypass system into user mail interface ([mail.yandex.com](https://mail.yandex.com/)). Increased ad unit revenue by 15%.
 - Active consultant on the architecture of the internal mailing service.
@@ -72,32 +94,12 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 <sup>React, Javascript, Redux, Redux-Saga, Reselect, Recompose, BEM, Mobx, Slack, Jira, Node.JS, Express, Mirco-Services architecture, CSS Modules, Profiling, Jest.</sup>
 
-**[Icons8](https://icons8.com)** ([icons8.com](https://icons8.com)) - **senior full-stack engineer, software architect** - (remote) - _2016 – 2017 (1 yr)_
-
-- Developed a Node.js service for support Server Side Rendering on AngularJS applications.
-- Decreased page generation time from 2s on [prerender.io](https://prerender.io) to incredible 200ms for Search Engines.
-- Developed several Open Source projects for work with SVG, transform, convert, with support SVG Fonts and SVG Sets. ([welovesvg](https://icons8.com/welovesvg), [svg-caster](https://github.com/icons8/svg-caster), etc.)
-- Realized a modular structure of the codebase.
-
-<sup>Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS.</sup>
-
-**[Sovcombank](https://sovcombank.com/en/about/info)** - **senior frontend engineer, team-lead** - (remote) - _2015 – 2016 (1 yr 3 mos)_
-
-- Leading of the team with 5 developers.
-- Controlling, training, decomposition both by code and business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
-- Interviewing with new candidates.
-- Developed a custom data changing tracking system specific to the project data for easy and iterative migration of an application codebase from AngularJS to React.
-- Use a SOLID as a basic and priority principle for an application code architecture.
-
-<sup>Javascript, AngularJS, React, Slack, Jira, D3, Custom libraries development.</sup>
-
-
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
 
 
 ## Open Source
 
-**[use-between](https://github.com/betula/use-between)** ([npmjs.com/package/use-between](https://www.npmjs.com/package/use-between)) - **author** - (>170k downloads) - the easiest way for sharing React state.
+**[use-between](https://github.com/betula/use-between)** ([npmjs.com/package/use-between](https://www.npmjs.com/package/use-between)) - **author** - (>380k downloads) - the easiest way for sharing React state.
 
 - Deep experience in the internal React code kitchen.
 - Developed a fully functional state management system through just one React hook.
@@ -111,9 +113,17 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 <sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
-**[reactive-box](https://github.com/betula/reactive-box)** ([github.com/betula/reactive-box](https://github.com/betula/reactive-box)) - **author** - 1.2 kB full feature reactive language basis.
+**[Remini](https://github.com/re-js/remini)** ([npmjs.com/package/remini](https://www.npmjs.com/package/remini)) - **author** - simple and powerful state management in React and Preact.
 
-**[svg-path-bounding-box](https://www.npmjs.com/package/svg-path-bounding-box)** ([npmjs.com/package/svg-path-bounding-box](https://www.npmjs.com/package/svg-path-bounding-box)) - **author** - (>400k downloads) - SVG path bounding box calculator.
+- Research the minimalistic, flexible, fast and efficient way to control React state.
+- Prepare the architecture of customer application.
+- Modules decomposition:
+  - [github.com/re-js/reactive-box](https://github.com/re-js/reactive-box) - 1 kB effective reactive core.
+  - [github.com/re-js/provi](https://github.com/re-js/provi) - Minimalistic and cute Service Provider.
+  - [github.com/re-js/evemin](https://github.com/re-js/evemin) - Modern and blazing fast event emitter.
+  - [github.com/re-js/tfrp](https://github.com/re-js/tfrp) - Transparent Functional Reactive Programming.
+
+<sup>React, Typescript, Performance, Lightweight.</sup>
 
 ## Technical writer
 
@@ -126,4 +136,4 @@ Thanks a lot for your time. I will be glad to take part of your team!
 
 Happy growing!
 
-[Download PDF](https://github.com/betula/resume/raw/master/Slava-Bereza-resume.pdf)
+Download PDF ([github.com/betula/resume/raw/master/Slava-Bereza-resume.pdf](https://github.com/betula/resume/raw/master/Slava-Bereza-resume.pdf))
