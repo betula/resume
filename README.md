@@ -6,7 +6,7 @@
 
 Result-driven engineer with 12+ years of experience, programmer in blood and mind! **I live in LatAM, Argentina, Buenos Aires**.
 
-+ WhatsApp: [wa.me/5491176110616](https://wa.me/5491176110616)
++ WhatsApp: [wa.me/79281435560](https://wa.me/79281435560)
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Linkedin: [linkedin.com/in/betula](https://linkedin.com/in/betula)
 + Github: [github.com/betula](https://github.com/betula)
