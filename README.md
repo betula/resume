@@ -49,7 +49,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 
 ## Work experience
 
-**[Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en_US)** - **senior full-stack engineer** - (contract, remote) - _2023 – 2022_
+**[Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en_US)** - **senior full-stack engineer** - (contract, remote) - _2022 – 2023_
 
 - Development of the Cooking plugin for the [Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en_US) mobile app.
 - Responsibility for the architecture of forms and screens within the plugin.
