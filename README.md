@@ -35,7 +35,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 - **Node.js** _(9yrs)_, Express
 - **React Native** _(1yr)_
 - **Angular** _(1yr)_
-- **AngularJS** _(4yrs)_
+- **AngularJS** _(5yrs)_
 - **PHP** _(3yrs)_
 - Unit testing with Jest, and similar
 - Profiling web application performance and creating high-performance applications
