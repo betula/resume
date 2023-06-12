@@ -4,7 +4,7 @@
 
 </div>
 
-Result-driven engineer with 12+ years of experience, programmer in blood and mind! **I live in Argentina, Buenos Aires**.
+Result-driven engineer with 12+ years of experience, programmer in blood and mind!
 
 + WhatsApp: [wa.me/79281435560](https://wa.me/79281435560)
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
@@ -35,7 +35,7 @@ I have a significant interest in complex UIs, financial apps, administration pan
 - **Node.js** _(9yrs)_, Express
 - **React Native** _(1yr)_
 - **Angular** _(1yr)_
-- **AngularJS** _(5yrs)_
+- **AngularJS** _(4yrs)_
 - **PHP** _(3yrs)_
 - Unit testing with Jest, and similar
 - Profiling web application performance and creating high-performance applications
