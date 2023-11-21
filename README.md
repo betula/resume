@@ -11,63 +11,48 @@ Result-driven engineer with 12+ years of experience, programmer in blood and min
 + Linkedin: [linkedin.com/in/betula](https://linkedin.com/in/betula)
 + Github: [github.com/betula](https://github.com/betula)
 
-I have a significant interest in complex UIs, financial apps, administration panels, social networks, and Open Source projects. I would like to continue gaining experience in interfaces, and in the architecture of client applications.
+I have a significant interest in complex UIs, financial apps, admin dashboards, social networking and open source projects. I would like to develop delightful UX, and client application architecture.
 
-- A confident participant in building large-scale applications with distributed teams.
-- Deep knowledge of object-oriented, reactive, functional programming, design patterns, web application architecture, library design and implementation.
-- Value oriented.
+- I have deep knowledge of object-oriented, reactive, functional programming, web application architecture, microservices, library design and implementation.
+- Confident in building large-scale applications with distributed teams.
 
-## I can
-
-- Can take responsibility for integrating big features.
-- Can take team leadership when needed.
-- Can work overhead in case of strategically important unforeseen events.
-- Can learn and develop new library/framework/language/architecture.
-- Can take responsibility for the architecture of an application, both in creating a new project and maintaining existing code.
-- I can take on issues requiring new solutions, complex algorithmic and architectural.
-- Can handle processes when business needs my leadership skills.
 
 ## Skills
 
 - **JavaScript** _(>12yrs)_
-- **TypeScript** _(6yrs)_
-- **React** _(8yrs)_, Mobx, Redux
-- **Node.js** _(9yrs)_, Express
-- **React Native** _(1yr)_
+- **TypeScript** _(8yrs)_
+- **React** _(8yrs)_, **Mobx**, Redux
+- **Node.js** _(9yrs)_, **NestJS**, Express, MongoDB, PostgreSQL
+- **React Native** _(2yr)_
 - **Angular** _(1yr)_
-- **AngularJS** _(4yrs)_
-- **PHP** _(3yrs)_
 - Unit testing with Jest, and similar
+- HTML5, CSS, SCSS, responsive design
 - Profiling web application performance and creating high-performance applications
-- Webpack with custom babel plugin development experience
-- CSS preprocessing, responsive layout
-- MongoDB, Postgres, MySQL
 - WebAssembly
-- Kanban and Scrum methodologies
-- Remote worker, Teammate
 
 
 ## Work experience
 
-**[Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en_US)** - **senior full-stack engineer** - (contract, remote) - _2022 – 2023_
+**[Samsung Food](https://samsungfood.com/)** - **senior frontend engineer** - (remote) - _2022 – 2023_
 
+- Take a part in the design architecture of [app.samsungfood.com](https://app.samsungfood.com/).
+- Successfully integrated Service Provider instead of Dependency Injection whole the React+MobX SPA.
 - Development of the Cooking plugin for the [Samsung SmartThings](https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en_US) mobile app.
 - Responsibility for the architecture of forms and screens within the plugin.
 - To establish effective interaction between teams from different countries.
 
-Reference letter ([github.com/betula/resume/raw/master/Slava-Bereza-ref_letter.pdf](https://github.com/betula/resume/raw/master/Slava-Bereza-ref_letter.pdf))
 <sup>React, Typescript, Mobx, Angular, Webview, Mobile UI.</sup>
 
-**[Text Blaze](https://blaze.today)** ([blaze.today](https://blaze.today)) - **senior full-stack engineer** - (contract, remote) - _2021 – 2022_
+**[Text Blaze](https://blaze.today)** ([blaze.today](https://blaze.today)) - **senior full-stack engineer** - (remote) - _2021 – 2022_
 
 - Developed and made changes to UI whole the project, from the welcome screen to the snippet markup editor. Maintained the code for Cloud functions, Chrome extension, and React Native mobile application.
 - Sped up UI rendering of the web application 2x faster for mobile devices.
 - Reduced the bundle size by 20%.
-- Teamwork in a globally distributed team with 4 time zones.
+- Successful teamwork in a globally distributed team with 4 time zones.
 
 <sup>React, Typescript, Redux, React Native, Node.JS, Google Cloud Functions, Firebase, Firestore, Webpack, Chrome Extension.</sup>
 
-**[Card of Day](http://apps.apple.com/app/card-of-the-day/id1547423880)** ([apps.apple.com/app/card-of-the-day/id1547423880](http://apps.apple.com/app/card-of-the-day/id1547423880)) - **founder, react native developer** - _2020 – 2021_
+**[Card of the Day](http://apps.apple.com/app/card-of-the-day/id1547423880)** ([apps.apple.com/app/card-of-the-day/id1547423880](http://apps.apple.com/app/card-of-the-day/id1547423880)) - **founder, react native developer** - (remote) - _2020 – 2021_
 
 - Single-handedly developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
@@ -85,7 +70,7 @@ Reference letter ([github.com/betula/resume/raw/master/Slava-Bereza-ref_letter.p
 - Pixel perfect UI master with Figma.
 - Friendly team-member and conscious pull request reviewer.
 
-<sup>React, Typescript, Mobx, Redux, Slack, Jira, Mirco-Services architecture, Node.JS, NestJS, Postgres, Styled Components, CSS Modules, Lerna, Docker, Jest.</sup>
+<sup>React, Typescript, Mobx, Redux, Slack, Jira, Mirco-Services architecture, Node.JS, NestJS, Postgres, Styled Components, Linaria, CSS Modules, Lerna, Docker, Jest.</sup>
 
 **[Yandex](https://yandex.com/)** - **senior full-stack engineer** - _2017 – 2019_
 
@@ -100,29 +85,21 @@ Reference letter ([github.com/betula/resume/raw/master/Slava-Bereza-ref_letter.p
 
 ## Open Source
 
-**[use-between](https://github.com/betula/use-between)** ([npmjs.com/package/use-between](https://www.npmjs.com/package/use-between)) - **author** - (>380k downloads) - the easiest way for sharing React state.
+**[use-between](https://github.com/betula/use-between)** ([github.com/betula/use-between](https://github.com/betula/use-between)) - **author** - (>450k downloads) - the easiest way for sharing React state.
 
 - Deep experience in the internal React code kitchen.
-- Developed a fully functional state management system through just one React hook.
+- Developed a fully functional state management system through only one React hook.
 
 <sup>React, Typescript, Minimalism.</sup>
 
-**[Realar advanced state manager](https://github.com/betula/realar)** ([github.com/betula/realar](https://github.com/betula/realar)) - **author** - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+**[Realar advanced state manager](https://github.com/realar-project/realar)** ([github.com/realar-project/realar](https://github.com/realar-project/realar)) - **author** - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
 <sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
-**[Remini](https://github.com/re-js/remini)** ([npmjs.com/package/remini](https://www.npmjs.com/package/remini)) - **author** - simple and powerful state management in React and Preact.
-
-- Research the minimalistic, flexible, fast and efficient way to control React state.
-- Prepare the architecture of customer application.
-- Modules decomposition:
-  - [github.com/re-js/reactive-box](https://github.com/re-js/reactive-box) - 1 kB effective reactive core.
-  - [github.com/re-js/provi](https://github.com/re-js/provi) - Minimalistic and cute Service Provider.
-  - [github.com/re-js/evemin](https://github.com/re-js/evemin) - Modern and blazing fast event emitter.
-  - [github.com/re-js/tfrp](https://github.com/re-js/tfrp) - Transparent Functional Reactive Programming.
+**[Remini](https://github.com/re-js/remini)** ([github.com/re-js/remini](https://www.github.com/re-js/remini)) - **author** - simple and powerful state management in React and Preact. Minimalistic, flexible, fast and efficient way to control React state.
 
 <sup>React, Typescript, Performance, Lightweight.</sup>
 
