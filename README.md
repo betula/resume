@@ -4,17 +4,14 @@
 
 </div>
 
-Result-driven engineer with 12+ years of experience, programmer in blood and mind!
+Result-driven engineer with 12+ years of experience, programmer in blood and mind! Confident in building large-scale applications with distributed teams.
 
 + WhatsApp: [wa.me/79281435560](https://wa.me/79281435560)
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Linkedin: [linkedin.com/in/betula](https://linkedin.com/in/betula)
 + Github: [github.com/betula](https://github.com/betula)
 
-I have a significant interest in complex UIs, financial apps, admin dashboards, social networking and open source projects. I would like to develop delightful UX, and client application architecture.
-
-- I have deep knowledge of object-oriented, reactive, functional programming, web application architecture, microservices, library design and implementation.
-- Confident in building large-scale applications with distributed teams.
+I have deep knowledge of object-oriented, reactive, functional programming, web application architecture, microservices, library design and implementation.
 
 
 ## Skills
